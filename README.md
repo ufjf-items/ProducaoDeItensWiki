@@ -2,6 +2,5 @@
 Wiki do projeto Producao de Itens da Fundação CAEd/UFJF
 
 - [Overview](comum/ProducaoDeItens.md)
-- [Plugin]()
+- [Plugin](plugin/plugin.md)
 - [Geração de itens anos iniciais]()
-- [API]
