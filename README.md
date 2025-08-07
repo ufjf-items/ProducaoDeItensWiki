@@ -2,6 +2,6 @@
 
 Wiki do projeto Producao de Itens da Fundação CAEd/UFJF
 
-- [Overview](Overview.md)
+- [Overview](comum/Overview.md)
 - [Projeto](projeto/Projeto.md)
 - [Sobre](comum/Sobre.md)

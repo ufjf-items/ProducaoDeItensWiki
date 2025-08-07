@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "projeto/Projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Projeto"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "0f99a27d755031b1",
   "lastOpenFiles": [
-    "comum/Overview.md",
     "README.md",
+    "comum/Overview.md",
     "teste.md",
     "comum/Sobre.md",
     "AIG/teste2.md",
