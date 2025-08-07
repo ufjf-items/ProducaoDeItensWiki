@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comum/Sobre.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre"
+              "title": "README"
             }
           }
         ]
@@ -168,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f020aa66346e289c",
+  "active": "0f99a27d755031b1",
   "lastOpenFiles": [
-    "comum/Sobre.md",
     "comum/Overview.md",
+    "README.md",
+    "teste.md",
+    "comum/Sobre.md",
+    "AIG/teste2.md",
     "plugin/add-in_word_web.md",
     "plugin/plugin.md",
     "plugin/api.md",
     "projeto/Projeto.md",
-    "teste.md",
-    "README.md",
     "teste2.md",
     "().md",
     "projeto",
-    "AIG/teste2.md",
     "AIG"
   ]
 }
