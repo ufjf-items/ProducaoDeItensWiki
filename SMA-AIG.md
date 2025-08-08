@@ -41,6 +41,8 @@ O fluxo do grafo é:
 Esse ciclo permite o refinamento progressivo do item até que atenda a todos os critérios estabelecidos.
 
 => Diagrama que representa o SMA: 
-![[EstruturaSMA.jpg|500]]
+
+![DiagramaSMA|500](EstruturaSMA.jpg)
+
 
 Ps.: A camada humana ainda não foi implementada, ainda esta no campo das idéias. 
