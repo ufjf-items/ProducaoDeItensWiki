@@ -1,6 +1,6 @@
 -> **Tags:** #Agentes #AIG
 ## Agentes
-
+[Link para o Repositorio](https://github.com/joaoaugustopc/AIG_SMA)
 O sistema conta com três principais de agentes:
 ### Gerador 
 Implementado em `src/generator.py`, o agente gerador utiliza um modelo de linguagem definido no arquivo ``conf/config.yaml``  para criar um item de avaliação com base nas variáveis obtidas dos csv's ```data/especificacao_tarefa_exemplo.csv``` e ```data/matriz_lp.csv``` .
@@ -46,3 +46,5 @@ Esse ciclo permite o refinamento progressivo do item até que atenda a todos os 
 
 
 Ps.: A camada humana ainda não foi implementada, ainda esta no campo das idéias. 
+
+[Testes_SMA](AIG/Testes_SMA)
