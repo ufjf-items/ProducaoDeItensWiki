@@ -42,7 +42,7 @@ Esse ciclo permite o refinamento progressivo do item até que atenda a todos os 
 
 => Diagrama que representa o SMA: 
 
-![DiagramaSMA|500](EstruturaSMA.jpg)
+<img src="EstruturaSMA.jpg" alt="Descrição" width="600">
 
 
 Ps.: A camada humana ainda não foi implementada, ainda esta no campo das idéias. 
